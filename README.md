@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     
   ##### 🧑‍🎓 I used to develop with .Net ,Js, now I create projects by developing with Python.
   ##### 🔥 I am currently busy learning .Net ,Python ,Javascript
-  ##### 🙏🏻 I am a Software Developer at Metro İstanbul 
+  ##### 🙏🏻 I am working in I am currently working as a Software Developer in a Company.
   ##### 🤖 My hobbies: I like to code and read documents.
   ##### ⚔️ I also like swimming and cheese
 
