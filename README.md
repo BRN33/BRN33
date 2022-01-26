@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="mailto:mars.baran@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mars.baran@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:ogur.baran@bil.omu.edu.tr"><img alt="Email" src="https://img.shields.io/badge/Email-mars.baran@gmail.com-blue?style=flat&logo=gmail"></a>
 
 <p align="center">
 
