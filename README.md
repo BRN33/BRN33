@@ -1,69 +1,104 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm UĞUR BARAN</h1>
+<h3 align="center">A passionate software developer from Istanbul, Turkey.</h3>
 
-<!--
+- 🔭 I’m currently learning .Net Core  Bootcamp - [Repos](https://github.com/stars/ugurkiymetli/lists/gelecekvarl%C4%B1k-fullstack-bootcamp))
 
+- 🌱 I’m currently learning **Javascript - Python - .Net Core**
 
-Here are some ideas to get you started:
+<!-- - 👯 I’m looking to collaborate on [React projects.](https://github.com/users/ugurkiymetli/projects/1)  -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h3 align=center>
-<p align="center">
- Hi, I'm UĞUR BARAN. Welcome To My Github Profile 👋
-<p align="center">
- 
- <p align="center">
+- 🤝 I’m looking for help with **learning .Net Core**
 
+- 💬 Ask me about **React, JS and pretty much anything you want to ask.**
+- ☑️ My Repos -> (https://github.com/BRN33)
+<h3 align="left">
+  Connect with me:
+</h3>
+<p align="left">
   
- I'm an Software Developer. I share my projects here.
+<a href="https://www.linkedin.com/in/u%C4%9Fur-baran-37884980/">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ugurbaran" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/mars_baran" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ugurbaran" height="30" width="40" />
+  </a>
+  <a href="https://app.patika.dev/ugurbaran" target="blank">
+    <img align="center" src="https://uploads-ssl.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo-p-500.png" alt="ugurbaran" height="40" width="40"/>
+  </a>
   
- <p align="center">
-    
-  ##### 🧑‍🎓 I used to develop with .Net ,Js, now I create projects by developing with Python.
-  ##### 🔥 I am currently busy learning .Net ,Python ,Javascript
-  ##### 🙏🏻 I am working in I am currently working as a Software Developer in a Company.
-  ##### 🤖 My hobbies: I like to code and read documents.
-  ##### ⚔️ I also like swimming and cheese
+</p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">
+  Languages, Frameworks and Tools:
+</h3>
+<p align="left"> 
+  
+  <!-- HTML5 -->
+  <a href="https://www.w3.org/html/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a>
 
-<p align="center">
-<a href="mailto:ogur.baran@bil.omu.edu.tr"><img alt="Email" src="https://img.shields.io/badge/Email-mars.baran@gmail.com-blue?style=flat&logo=gmail"></a>
+  <!--CSS3--->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a>
+  <!-- Javascript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   
+  </a>
+  
+  <!--C#-->
+  <a href="https://www.w3schools.com/cs/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a>  
+  
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
+  
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  
+  <!-- .Net -->
+  <a href="https://dotnet.microsoft.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>  
+  </a>
 
-<p align="center">
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <!-- Postman -->
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
+  <!-- Photoshop -->
+  <a href="https://www.photoshop.com/en" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+  </a>
+</p>
 
+<!-- Most Used Languages -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurkiymetli&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ugurkiymetli" /></p>
+<!-- Github Stats -->
 
-<h3 align="center">Languages and Tools:</h3>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ugurkiymetli&show_icons=true&theme=tokyonight&locale=en" alt="ugurkiymetli" /></p>
 
+<!-- Contrubutions Streak -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ugurkiymetli&theme=dark" alt="ugurkiymetli" /></p>
 
- 
- 
+<!-- Github Profile Trophies  -->
+<!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/BRN33" alt="ugurkiymetli" /></a> </p>
+ -->
 
-
- 
-
-<h2 align="center">My GitHub Stats :bar_chart:</h2>
-
-
- 
-<table><tbody><tr><td valign="top" width="50%">
-<h3><a id="user-content-backend" class="anchor" aria-hidden="true" href="#backend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a></h3>
-
-<div align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BRN33)  
-</div>
-</td><td valign="top" width="50%">
-<h3><a id="user-content-backend" class="anchor" aria-hidden="true" href="#backend"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a></h3>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BRN33&show_icons=true)  
-
-</td></tr></tbody></table>
+<small>
+<a href="https://rahuldkjain.github.io/gh-profile-readme-generator">Made with -><a/>
+</small>
 
