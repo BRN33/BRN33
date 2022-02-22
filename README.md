@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm UĞUR BARAN</h1>
-<h3 align="center">A passionate software developer from Istanbul, Turkey.</h3>
+<h3 align="center">A Software Developer from Istanbul, Turkey.</h3>
 
-- 🔭 I’m currently learning .Net Core  Bootcamp - [Repos](https://github.com/stars/ugurkiymetli/lists/gelecekvarl%C4%B1k-fullstack-bootcamp))
+- 🔭 I’m currently learning .Net Core  Bootcamp - [Repos](https://github.com/156-Innova-Net-Bootcamp-Patika-dev/16-UgurBaran))
 
 - 🌱 I’m currently learning **Javascript - Python - .Net Core**
 
-<!-- - 👯 I’m looking to collaborate on [React projects.](https://github.com/users/ugurkiymetli/projects/1)  -->
 
 - 🤝 I’m looking for help with **learning .Net Core**
 
-- 💬 Ask me about **React, JS and pretty much anything you want to ask.**
+- 💬 Ask me about ** JS and pretty much anything you want to ask.**
 - ☑️ My Repos -> (https://github.com/BRN33)
 <h3 align="left">
   Connect with me:
@@ -86,16 +85,16 @@
 </p>
 
 <!-- Most Used Languages -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ugurkiymetli&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ugurkiymetli" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BRN33&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="BRN33" /></p>
 <!-- Github Stats -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ugurkiymetli&show_icons=true&theme=tokyonight&locale=en" alt="ugurkiymetli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BRN33&show_icons=true&theme=tokyonight&locale=en" alt="BRN33" /></p>
 
 <!-- Contrubutions Streak -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ugurkiymetli&theme=dark" alt="ugurkiymetli" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BRN33&theme=dark" alt="BRN33" /></p>
 
 <!-- Github Profile Trophies  -->
-<!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/BRN33" alt="ugurkiymetli" /></a> </p>
+<!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/BRN33" alt="BRN33" /></a> </p>
  -->
 
 <small>
