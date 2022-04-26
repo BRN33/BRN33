@@ -96,9 +96,7 @@
 <!-- Github Profile Trophies  -->
 <!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/BRN33" alt="BRN33" /></a> </p>
  -->
-![](https://komarev.com/ghpvc/?username=BRN33)
-![](https://komarev.com/ghpvc/?username=BRN33&color=green)
-![](https://komarev.com/ghpvc/?username=BRN33&style=flat-square)
+
 <small>
 <a href="https://rahuldkjain.github.io/gh-profile-readme-generator">Made with -><a/>
 </small>
